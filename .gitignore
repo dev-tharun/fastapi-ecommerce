@@ -1,0 +1,9 @@
+__pycache__/
+app.egg-info
+backend/app/alembic/__pycache__/
+backend/app/app/core/config.py
+env
+backend/app/app/api/endpoints/__pycache__/
+backend/app/app/models/__pycache__/
+backend/app/app/images/
+projectec/
